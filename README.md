@@ -1,4 +1,13 @@
-## Hi there 👋
+# Welcome to Bilal's GitHub profile page! 👨🏽‍💻
+
+## About me
+Hello I'm Bilal, a passionate engineer and software devloper who is always chasing the next puzzle.
+I enjoy solving complex problems and learning new tools and workflows, one of my favorite things to do is finding something that works and figuring out a more elegant solution.
+I enjoy diving deep into code to tackle challenges, whether it's optimizing performance, automating processes, or creating user-friendly applications. Currently, I’m exploring new areas like machine learning, artificial intelligence, and iOS/macOS development. I am always looking for the next big challenge to solve.
+
+I’m a strong believer in continuous learning and collaboration. Whether it's contributing to open-source projects or working with a team to bring ideas to life, I love being part of a community that thrives on knowledge sharing and creativity.
+
+Feel free to explore my repositories to see what I've been working on! Let’s connect and create something amazing together. 🚀
 
 <!--
 **awesomebil/awesomebil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
